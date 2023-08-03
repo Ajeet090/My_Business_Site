@@ -17,8 +17,12 @@ This is the source code for my personal portfolio website. It showcases my proje
 - React Js
 - Rest APIs
 - React Hooks
+- Mongodb
 - Wave SVG 
 - Animation
+## Hosting 
+- Firebase
+- Site Live : https://my-react-app-3a846.web.app
 
 ## Contributing🍨:
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request. For major changes, please discuss the proposed changes with the repository's owner before proceeding.
